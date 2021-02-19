@@ -1,3 +1,3 @@
-module github.com/eddiezesoo/ZLog
+module gitee.com/zesoo/ZLog
 
-go 1.14
+go 1.16
